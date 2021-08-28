@@ -1,0 +1,28 @@
+*{
+    text-decoration: none;
+}
+body{
+    font-family: "Source Sans Pro", sans-serif;
+}
+.navbar{
+    background-color: #1d1d1f;
+}
+.navbar-nav{
+    margin: 0px 52px;
+    line-height: 44px;
+    background-color: #1d1d1f;
+}
+.nav-list{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    .nav-item{
+        .nav-link{
+            color: #dedee4;
+        }
+        .nav-link:hover{
+            color: #f5f5f7;
+        }
+    }
+}

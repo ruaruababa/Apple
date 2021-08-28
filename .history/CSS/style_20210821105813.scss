@@ -1,0 +1,22 @@
+*{
+    text-decoration: none;
+    color: black;
+}
+body{
+    font-family: "Source Sans Pro", sans-serif;
+}
+.navbar{
+}
+.navbar-nav{
+    margin: 0px 52px;
+    line-height: 44px;
+    background-color: #1d1d1f;
+}
+.nav-list{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    .nav-item{
+    }
+}
